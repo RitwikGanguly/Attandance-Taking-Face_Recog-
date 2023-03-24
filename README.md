@@ -1,2 +1,3 @@
-# Attandance-Taking-Face_Recog-
-This is a attendance taking app through web cam by face detection 
+# Attandance Taking Project
+> This is a project with Face Recognition
+- This is an attendance taking app through web cam by face detection 
